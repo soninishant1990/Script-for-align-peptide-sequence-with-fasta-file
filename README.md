@@ -1,0 +1,1 @@
+# Script-for-align-peptide-sequence-with-fasta-file
